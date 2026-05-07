@@ -54,7 +54,7 @@ Workflows that automate file handling, document creation, and content extraction
 - Document monitoring with Drive tool integration
 
 ### 🤖 AI-Powered Content & Assistants
-Workflows that use LLMs (ChatGPT, DeepSeek, MistralAI, OpenAI) for intelligent content automation.
+Workflows that use LLMs (DeepSeek, MistralAI, OpenAI, Anthropic) for intelligent content automation.
 
 - Auto-categorize and tag WordPress blog posts using AI
 - AI blog creation in a custom brand voice
